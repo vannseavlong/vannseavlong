@@ -15,12 +15,12 @@
 ```ts
 const seavlong = {
   name:        "VANN Seavlong",
-  role:        "Software Engineering Student & Full Stack Developer",
-  university:  "Cambodia University of Technology and Science (Year 3)",
+  role:        "Software Engineering Student & None stop Developer",
+  university:  "Cambodia University of Technology and Science (Year 4)",
   location:    "Phnom Penh, Cambodia 🇰🇭",
   portfolio:   "https://vann-seavlong.vercel.app",
   currentFocus: ["React + Tailwind + Shadcn UI", "Node.js + Express.js", "npm Package Development"],
-  funFact:     "I once used Google Sheets as a database 😂 (No cap, it's in prod)",
+  funFact:     "I once used Google Sheets as a database, building my budget tracking app",
   goal:        "Join a software company, grow professionally, and give back to the community",
 };
 ```
@@ -64,7 +64,7 @@ const seavlong = {
 
 | Package | Description | Links |
 |--------|-------------|-------|
-| **sheet-db** | Use Google Sheets as your database — zero cost, zero server. Users own their data via OAuth 2.0. | [![Docs](https://img.shields.io/badge/Docs-longcelot--sheet--db-blue?style=flat-square&logo=googlechrome)](https://longcelot-sheet-db.web.app) [![npm](https://img.shields.io/npm/v/sheet-db?style=flat-square&logo=npm)](https://www.npmjs.com/package/sheet-db) |
+| **longcelot-sheet-db** | Use Google Sheets as your database — zero cost, zero server. Users own their data via OAuth 2.0. | [![Docs](https://img.shields.io/badge/Docs-longcelot--sheet--db-blue?style=flat-square&logo=googlechrome)](https://longcelot-sheet-db.web.app) [![npm](https://img.shields.io/npm/v/sheet-db?style=flat-square&logo=npm)](https://www.npmjs.com/package/sheet-db) |
 | **otp-longcelot** | Secure OTP system via Telegram Bot — developers own their bot, bcrypt-secured, privacy-first. | [![npm](https://img.shields.io/npm/v/otp-longcelot?style=flat-square&logo=npm)](https://www.npmjs.com/package/otp-longcelot) [![Telegram](https://img.shields.io/badge/Powered%20by-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram)](https://core.telegram.org/bots) |
 
 > 💡 *Both packages are designed with developer ownership and privacy in mind — no vendor lock-in, no data access by the author.*
@@ -105,7 +105,8 @@ const seavlong = {
 🥇  2021 — National Examination Grade A           @ GloLink International School
 🏗️  2022 — Engineering Foundation Year            @ Institute of Technology of Cambodia  
 🏆  2023 — Techno Tech Innovation 1st Round Prize @ Khmer Enterprise
-📦  2024 — Published npm packages: sheet-db & otp-longcelot
+📷  2024 — Building simplet attendance tracker with selfies camera
+📦  2026 — Published npm packages: sheet-db & otp-longcelot
 ```
 
 ---
@@ -137,7 +138,7 @@ const seavlong = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LONGCELOT&color=A78BFA&style=flat-square&label=Profile+Views)
 
-*"There's still a lot of things I don't know, but I will keep going."* — me, probably every day 🙂
+*"There's still a lot of things I don't know, but I will keep going."* 
 
 </div>
 
