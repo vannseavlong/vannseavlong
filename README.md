@@ -1,10 +1,15 @@
 <a href="https://github.com/LONGCELOT">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=VANN%20Seavlong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=VANN%20Seavlong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 </a>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 24px;">
+    🎵 🎶 🎸 🥁 🎵 🎶 🎸 🥁 🎵 🎶 🎸 🥁 🎵 🎶 🎸 🥁
+  </marquee>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Full+Stack+Developer+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Frontend+Web+Developer+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+enthusiast;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+learner;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+things+with+thoughfull+on+every+commit+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +20,13 @@
 ```ts
 const seavlong = {
   name:        "VANN Seavlong",
-  role:        "Software Engineering Student & Frontend Web Developer",
-  university:  "Cambodia University of Technology and Science (Year 3)",
+  role:        "Software Engineering Student | Aspiring Developer",
+  university:  "Cambodia University of Technology and Science (Year 4)",
   location:    "Phnom Penh, Cambodia 🇰🇭",
   portfolio:   "https://vann-seavlong.vercel.app",
-  currentFocus: ["React + Tailwind + Shadcn UI", "Next.js", "TypeScript", "UI/UX Design"],
-  funFact:     "I once used Google Sheets as a database 😂 (No cap, it's in prod)",
+  currentFocus: ["Working on React, Next + Tailwind + Shadcn UI", "Exploring Node.js + Express.js", "Building npm Packages"],
+  learning:    "Still figuring out the full stack journey, one from mid-night idea to building journey 📖",
+  funFact:     "I once used Google Sheets as a database for my budget managing app",
   goal:        "Join a software company, grow professionally, and give back to the community",
 };
 ```
@@ -105,7 +111,8 @@ const seavlong = {
 🥇  2021 — National Examination Grade A           @ GloLink International School
 🏗️  2022 — Engineering Foundation Year            @ Institute of Technology of Cambodia  
 🏆  2023 — Techno Tech Innovation 1st Round Prize @ Khmer Enterprise
-📦  2024 — Published npm packages: sheet-db & otp-longcelot
+📚  2024-2025 — Engineering skills focus
+📦  2026 — Published npm packages: sheet-db & otp-longcelot
 ```
 
 ---
@@ -137,7 +144,7 @@ const seavlong = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LONGCELOT&color=A78BFA&style=flat-square&label=Profile+Views)
 
-*"There's still a lot of things I don't know, but I will keep going."* — me, probably every day 🙂
+*"There's still a lot of things I don't know, but I will keep going."* 2 AM bug XD
 
 </div>
 
