@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+learner;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+things+with+thoughfull+on+every+commit+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+developer;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+things+with+thoughtful+on+every+commit+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,6 +27,7 @@ const seavlong = {
   currentFocus: ["Working on React, Next + Tailwind + Shadcn UI", "Exploring Node.js + Express.js", "Building npm Packages"],
   learning:    "Still figuring out the full stack journey, one from mid-night idea to building journey 📖",
   funFact:     "I once used Google Sheets as a database for my budget managing app",
+  hobbies:     ["🎸 Guitar", "🥁 Drum", "🎹 Piano", "🎮 Mobile Legends (MLBB)"],
   goal:        "Join a software company, grow professionally, and give back to the community",
 };
 ```
@@ -51,6 +52,7 @@ const seavlong = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,6 +63,7 @@ const seavlong = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -70,10 +73,21 @@ const seavlong = {
 
 | Package | Description | Links |
 |--------|-------------|-------|
-| **sheet-db** | Use Google Sheets as your database — zero cost, zero server. Users own their data via OAuth 2.0. | [![Docs](https://img.shields.io/badge/Docs-longcelot--sheet--db-blue?style=flat-square&logo=googlechrome)](https://longcelot-sheet-db.web.app) [![npm](https://img.shields.io/npm/v/sheet-db?style=flat-square&logo=npm)](https://www.npmjs.com/package/sheet-db) |
-| **otp-longcelot** | Secure OTP system via Telegram Bot — developers own their bot, bcrypt-secured, privacy-first. | [![npm](https://img.shields.io/npm/v/otp-longcelot?style=flat-square&logo=npm)](https://www.npmjs.com/package/otp-longcelot) [![Telegram](https://img.shields.io/badge/Powered%20by-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram)](https://core.telegram.org/bots) |
+| **longcelot-sheet-db** | Use Google Sheets as your database — zero cost, zero server. Users own their data via OAuth 2.0. | [![Docs](https://img.shields.io/badge/Docs-longcelot--sheet--db-blue?style=flat-square&logo=googlechrome)](https://longcelot-sheet-db.web.app) [![npm](https://img.shields.io/npm/v/longcelot-sheet-db?style=flat-square&logo=npm)](https://www.npmjs.com/package/longcelot-sheet-db) |
+| **otp-longcelot** | Secure OTP system via Telegram Bot — developers own their bot, bcrypt-secured, privacy-first. | [![npm](https://img.shields.io/npm/v/otp-telegram-longcelot?style=flat-square&logo=npm)](https://www.npmjs.com/package/otp-longcelot) [![Telegram](https://img.shields.io/badge/Powered%20by-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram)](https://core.telegram.org/bots) |
 
 > 💡 *Both packages are designed with developer ownership and privacy in mind — no vendor lock-in, no data access by the author.*
+
+---
+
+### 🏢 Company Projects
+
+| Company | Project | Description | Link |
+|---------|---------|-------------|------|
+| **Suntel Technology Cambodia** | bEasy Landing Page & Admin Portal | Landing page for bEasy cleaning & pest service + admin portal for marketing campaigns, finance, and order management | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=googlechrome)](https://beasy.info) |
+| **Suntel Technology Cambodia** | bEasy Mini App (ABA Bank) | Contributed to the bEasy mini app launched inside ABA Mobile — Cambodia's leading banking super-app | 🔒 Internal |
+| **Suntel Technology Cambodia** | Suntel Corporate Website | Contributed to the official Suntel company website | [![suntel.io](https://img.shields.io/badge/Visit-suntel.io-0A66C2?style=flat-square&logo=googlechrome)](https://suntel.io) |
+| **ISI Group (ISIG)** | ISI Steel Digital Catalogue | Developed a digital product catalogue for ISI Steel products | [![Catalogue](https://img.shields.io/badge/Visit-Catalogue-0A66C2?style=flat-square&logo=googlechrome)](https://catalogue.isisteel.com.kh) |
 
 ---
 
