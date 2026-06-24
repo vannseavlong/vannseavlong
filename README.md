@@ -85,8 +85,8 @@ const seavlong = {
 | Company | Project | Description | Link |
 |---------|---------|-------------|------|
 | **Suntel Technology Cambodia** | bEasy Landing Page & Admin Portal | Landing page for bEasy cleaning & pest service + admin portal for marketing campaigns, finance, and order management | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=googlechrome)](https://beasy.info) |
-| **Suntel Technology Cambodia** | bEasy Mini App (ABA Bank) | Contributed to the bEasy mini app launched inside ABA Mobile — Cambodia's leading banking super-app | 🔒 Internal |
-| **Suntel Technology Cambodia** | Suntel Corporate Website | Contributed to the official Suntel company website | [![suntel.io](https://img.shields.io/badge/Visit-suntel.io-0A66C2?style=flat-square&logo=googlechrome)](https://suntel.io) |
+| **Suntel Technology Cambodia** | bEasy Mini App | Contributed to the bEasy mini app launched inside ABA Mobile — Cambodia's leading banking super-app | Live in ABA mini app |
+| **Suntel Technology Cambodia** | Suntel Website | Contributed to the official Suntel company website | [![suntel.io](https://img.shields.io/badge/Visit-suntel.io-0A66C2?style=flat-square&logo=googlechrome)](https://suntel.io) |
 | **ISI Group (ISIG)** | ISI Steel Digital Catalogue | Developed a digital product catalogue for ISI Steel products | [![Catalogue](https://img.shields.io/badge/Visit-Catalogue-0A66C2?style=flat-square&logo=googlechrome)](https://catalogue.isisteel.com.kh) |
 
 ---
