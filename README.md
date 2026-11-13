@@ -147,7 +147,7 @@ const seavlong = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vann--seavlong.vercel.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://vann-seavlong.vercel.app)
-[![Email](https://img.shields.io/badge/Email-vannseavlong55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vannseavlong55@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seavlongvann55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seavlongvann55@gmail.com)
 [![npm](https://img.shields.io/badge/npm-LONGCELOT-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~longcelot)
 [![Location](https://img.shields.io/badge/Based%20in-Phnom%20Penh%2C%20Cambodia-2C8EBB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Phnom+Penh,+Cambodia)
 
