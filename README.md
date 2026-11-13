@@ -1,4 +1,4 @@
-<a href="https://github.com/LONGCELOT">
+<a href="https://github.com/vannseavlong">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=VANN%20Seavlong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 </a>
 <div align="center">
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+developer;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+things+with+thoughtful+on+every+commit+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Seavlong+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%87%B0%F0%9F%87%AD;React+%2B+Node.js+%2B+Next.js+developer;Open+Source+npm+Package+Author+%F0%9F%93%A6;Building+thoughtfully%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@ const seavlong = {
   location:    "Phnom Penh, Cambodia 🇰🇭",
   portfolio:   "https://vann-seavlong.vercel.app",
   currentFocus: ["Working on React, Next + Tailwind + Shadcn UI", "Exploring Node.js + Express.js", "Building npm Packages"],
-  learning:    "Still figuring out the full stack journey, one from mid-night idea to building journey 📖",
+  learning:    "Still figuring out the full stack journey, from midnight idea to shipped project 📖",
   funFact:     "I once used Google Sheets as a database for my budget managing app",
   hobbies:     ["🎸 Guitar", "🥁 Drum", "🎹 Piano", "🎮 Mobile Legends (MLBB)"],
   goal:        "Join a software company, grow professionally, and give back to the community",
@@ -74,9 +74,10 @@ const seavlong = {
 | Package | Description | Links |
 |--------|-------------|-------|
 | **longcelot-sheet-db** | Use Google Sheets as your database — zero cost, zero server. Users own their data via OAuth 2.0. | [![Docs](https://img.shields.io/badge/Docs-longcelot--sheet--db-blue?style=flat-square&logo=googlechrome)](https://longcelot-sheet-db.web.app) [![npm](https://img.shields.io/npm/v/longcelot-sheet-db?style=flat-square&logo=npm)](https://www.npmjs.com/package/longcelot-sheet-db) |
-| **otp-longcelot** | Secure OTP system via Telegram Bot — developers own their bot, bcrypt-secured, privacy-first. | [![npm](https://img.shields.io/npm/v/otp-telegram-longcelot?style=flat-square&logo=npm)](https://www.npmjs.com/package/otp-longcelot) [![Telegram](https://img.shields.io/badge/Powered%20by-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram)](https://core.telegram.org/bots) |
+| **otp-telegram-longcelot** | Secure OTP system via Telegram Bot — developers own their bot, bcrypt-secured, privacy-first. | [![npm](https://img.shields.io/npm/v/otp-telegram-longcelot?style=flat-square&logo=npm)](https://www.npmjs.com/package/otp-telegram-longcelot) [![Telegram](https://img.shields.io/badge/Powered%20by-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram)](https://core.telegram.org/bots) |
+| **gitask-cli** | Git-backed Kanban for a plain-Markdown `Tasks/` folder — board, move, assign, sub-tasks, reports, GitHub sync and a local browser UI. No accounts: git is the identity and the history. | [![Docs](https://img.shields.io/badge/Docs-gitask-blue?style=flat-square&logo=googlechrome)](https://gitask-me.web.app) [![npm](https://img.shields.io/npm/v/gitask-cli?style=flat-square&logo=npm)](https://www.npmjs.com/package/gitask-cli) [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/vannseavlong/GITASK) |
 
-> 💡 *Both packages are designed with developer ownership and privacy in mind — no vendor lock-in, no data access by the author.*
+> 💡 *All packages are designed with developer ownership and privacy in mind — no vendor lock-in, no data access by the author.*
 
 ---
 
@@ -96,7 +97,7 @@ const seavlong = {
 | Project | Stack | Repo |
 |---------|-------|------|
 | 🌫️ Air Quality Monitoring System | Flutter · FastAPI · XGBoost · Open-Meteo | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/LONGCELOT/Air_Quality_Prediction/) |
-| 🎬 Movie Booking Ticket System | React · Express.js · MySQL | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/LONGCELOT) |
+| 🎬 Movie Booking Ticket System | React · Express.js · MySQL | 🔒 Private (school project) |
 | 🎯 Quiz App | Flutter · REST API | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/LONGCELOT/quizApp/) |
 | 📊 Next.js + Google Sheets Full Stack *(in progress)* | Next.js · Express.js · OAuth 2.0 · Google Sheets API | 🔒 Coming Soon |
 
@@ -106,14 +107,14 @@ const seavlong = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LONGCELOT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONGCELOT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vannseavlong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannseavlong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LONGCELOT&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vannseavlong&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +127,7 @@ const seavlong = {
 🏗️  2022 — Engineering Foundation Year            @ Institute of Technology of Cambodia  
 🏆  2023 — Techno Tech Innovation 1st Round Prize @ Khmer Enterprise
 📚  2024-2025 — Engineering skills focus
-📦  2026 — Published npm packages: sheet-db & otp-longcelot
+📦  2026 — Published npm packages: longcelot-sheet-db, otp-telegram-longcelot & gitask-cli
 ```
 
 ---
@@ -135,7 +136,7 @@ const seavlong = {
 
 <div align="center">
 
-[![LONGCELOT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LONGCELOT&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![vannseavlong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vannseavlong&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -156,12 +157,12 @@ const seavlong = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=LONGCELOT&color=A78BFA&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=vannseavlong&color=A78BFA&style=flat-square&label=Profile+Views)
 
 *"There's still a lot of things I don't know, but I will keep going."* 2 AM bug XD
 
 </div>
 
-<a href="https://github.com/LONGCELOT">
+<a href="https://github.com/vannseavlong">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
 </a>
