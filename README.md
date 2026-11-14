@@ -136,7 +136,7 @@ const seavlong = {
 
 <div align="center">
 
-[![vannseavlong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vannseavlong&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![vannseavlong's contribution chart](https://ghchart.rshah.org/7aa2f7/vannseavlong)](https://github.com/vannseavlong)
 
 </div>
 
