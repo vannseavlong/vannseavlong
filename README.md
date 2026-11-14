@@ -132,16 +132,6 @@ const seavlong = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![vannseavlong's contribution chart](https://ghchart.rshah.org/7aa2f7/vannseavlong)](https://github.com/vannseavlong)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
